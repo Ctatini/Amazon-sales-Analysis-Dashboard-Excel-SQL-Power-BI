@@ -1,3 +1,7 @@
+## SQL Script
+
+The complete SQL queries used for KPI and sales analysis are available here
+
 
 -- Amazon Sales Performance Analysis
 
@@ -66,4 +70,5 @@ FROM
     amazon_sales
 GROUP BY product_id
 ORDER BY Revenue DESC
+
 LIMIT 5;
