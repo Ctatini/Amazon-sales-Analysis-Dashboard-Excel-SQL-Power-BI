@@ -1,40 +1,31 @@
-# Amazon Sales Performance Dashboard (Excel)
- ****Project Overview****
+# Amazon Sales Analysis Dashboard
 
-This project analyzes Amazon sales data for 2022–2023 using Microsoft Excel.
-An interactive dashboard was created using Pivot Tables, KPIs, and Slicers.
+## Tools Used
+Excel  
+SQL  
+Power BI  
 
-****Tools Used****
+## Project Overview
+This project analyzes Amazon sales data to understand revenue trends, product category performance, and regional sales distribution.
 
-Microsoft Excel
+## Features
+- Monthly Sales Trend Analysis
+- Product Category Performance
+- Region-wise Sales Filtering
+- Payment Method Analysis
+- Interactive Dashboard
 
-Pivot Tables
+## Files in Repository
+- Amazon_Sales_Excel_Dashboard.xlsx
+- Amazon_Sales_PowerBI_Dashboard.pbix
+- amazon_analysis.sql
+- Dataset.csv
 
-Slicers
-
-Data Cleaning & Validation
-
-****KPIs****
-
-Total Revenue
-
-Total Orders
-
-Quantity Sold
-
-Average Rating
-
-****Key Insights****
-
-Revenue increased in 2023 compared to 2022.
-
-January 2023 recorded the highest monthly revenue; February 2023 recorded the lowest.
-
-Middle East region showed significant growth.
-
-Beauty category had strong sales, while Sports recorded the lowest.
-
-UPI payment usage increased in 2023.
+## Insights
+- Identified top-performing product categories
+- Analyzed regional sales performance
+- Observed monthly revenue fluctuations
+- UPI payment usage increased in 2023.
 
 
 
