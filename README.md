@@ -19,7 +19,7 @@ This project analyzes Amazon sales data to understand revenue trends, product ca
 - Amazon_Sales_Excel_Dashboard.xlsx
 - Amazon_Sales_PowerBI_Dashboard.pbix
 - amazon_analysis.sql
-- Dataset.csv
+- amazon_sales_dataset.csv
 
 ## Insights
 - Identified top-performing product categories
